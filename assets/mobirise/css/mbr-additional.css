@@ -1455,3 +1455,11 @@ section.lazy-placeholder:after {
 .cid-rZJemVeS3f .social-list a:focus {
   text-decoration: none;
 }
+.cid-rZK76cNjnP {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rZK76cNjnP .media-container-row .mbr-text {
+  color: #cc2952;
+}
